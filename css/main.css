@@ -128,3 +128,10 @@
     padding: 10px;
     min-width: 40px;
 }
+
+.buy-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: orange;
+}
